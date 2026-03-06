@@ -1,0 +1,2845 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-03-06T00:24:00Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/486151080",
+        "amenity": "drinking_water",
+        "bottle": "no",
+        "dog": "yes",
+        "fountain": "bubbler"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1649253,
+          38.7358538
+        ]
+      },
+      "id": "node/486151080"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1504407635",
+        "amenity": "drinking_water",
+        "check_date": "2023-03-25",
+        "image": "http://findafountain.org/system/191/original/portugal-lisbon-lisbon-lisbon-castelo-de-sao-jorge-outdoor-fountain.jpg",
+        "source": "osmsync:findafountain",
+        "source:pkey": "179"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1332504,
+          38.7137569
+        ]
+      },
+      "id": "node/1504407635"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1504407904",
+        "amenity": "drinking_water",
+        "description": "http://en.wikipedia.org/wiki/Rossio_Train_Station",
+        "image": "http://findafountain.org/system/188/original/portugal-lisbon-lisbon-lisbon-rossio-train-station-outdoor-fountain.jpg",
+        "maintenance": "ok",
+        "source": "osmsync:findafountain",
+        "source:pkey": "176"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1410926,
+          38.7144766
+        ]
+      },
+      "id": "node/1504407904"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1802020762",
+        "amenity": "drinking_water",
+        "bottle": "no",
+        "check_date": "2024-09-08",
+        "dog": "no",
+        "fountain": "bubbler"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1514075,
+          38.726071
+        ]
+      },
+      "id": "node/1802020762"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1948748272",
+        "amenity": "drinking_water",
+        "man_made": "water_tap",
+        "name": "Chafariz Alto do Longo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1476964,
+          38.7157812
+        ]
+      },
+      "id": "node/1948748272"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1963419727",
+        "amenity": "drinking_water",
+        "check_date": "2024-02-04",
+        "fountain": "bubbler"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1412735,
+          38.7189131
+        ]
+      },
+      "id": "node/1963419727"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1963419729",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.141513,
+          38.7196478
+        ]
+      },
+      "id": "node/1963419729"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1974073815",
+        "amenity": "drinking_water",
+        "bottle": "no",
+        "check_date": "2024-09-08",
+        "dog": "no",
+        "fountain": "bubbler"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1522551,
+          38.7269865
+        ]
+      },
+      "id": "node/1974073815"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1974073948",
+        "amenity": "drinking_water",
+        "bottle": "no",
+        "check_date": "2024-09-08",
+        "dog": "yes",
+        "fountain": "bubbler"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1512458,
+          38.7274756
+        ]
+      },
+      "id": "node/1974073948"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2349392074",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.172471,
+          38.736475
+        ]
+      },
+      "id": "node/2349392074"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2385449386",
+        "amenity": "drinking_water",
+        "bottle": "no",
+        "dog": "yes",
+        "fountain": "bubbler"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1586878,
+          38.7338001
+        ]
+      },
+      "id": "node/2385449386"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2459757658",
+        "amenity": "drinking_water",
+        "check_date": "2023-01-11",
+        "fountain": "bubbler"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1310362,
+          38.7159289
+        ]
+      },
+      "id": "node/2459757658"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3170429734",
+        "amenity": "drinking_water",
+        "bottle": "no",
+        "dog": "yes",
+        "fountain": "bubbler",
+        "indoor": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1323785,
+          38.7374678
+        ]
+      },
+      "id": "node/3170429734"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4158376634",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1641524,
+          38.7361325
+        ]
+      },
+      "id": "node/4158376634"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4225619553",
+        "amenity": "drinking_water",
+        "indoor": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1338386,
+          38.715938
+        ]
+      },
+      "id": "node/4225619553"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4226509491",
+        "amenity": "drinking_water",
+        "check_date": "2022-09-03",
+        "historic": "yes",
+        "indoor": "no",
+        "man_made": "water_tap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1487144,
+          38.7097077
+        ]
+      },
+      "id": "node/4226509491"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4226548580",
+        "amenity": "drinking_water",
+        "bottle": "no",
+        "check_date": "2024-02-19",
+        "dog": "no",
+        "fountain": "bubbler",
+        "indoor": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1596223,
+          38.7138749
+        ]
+      },
+      "id": "node/4226548580"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4226548588",
+        "amenity": "drinking_water",
+        "bottle": "no",
+        "check_date": "2022-09-06",
+        "dog": "no",
+        "fountain": "bubbler",
+        "indoor": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1541974,
+          38.7279838
+        ]
+      },
+      "id": "node/4226548588"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4269959312",
+        "amenity": "drinking_water",
+        "survey:date": "2024-05-01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1771428,
+          38.7376486
+        ]
+      },
+      "id": "node/4269959312"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4271421639",
+        "amenity": "drinking_water",
+        "bottle": "no",
+        "dog": "no",
+        "fountain": "bubbler"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1789675,
+          38.7325521
+        ]
+      },
+      "id": "node/4271421639"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4271421640",
+        "amenity": "drinking_water",
+        "bottle": "no",
+        "dog": "no",
+        "fountain": "bubbler"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1655497,
+          38.736721
+        ]
+      },
+      "id": "node/4271421640"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4314791002",
+        "amenity": "drinking_water",
+        "fountain": "bubbler"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1629786,
+          38.7044806
+        ]
+      },
+      "id": "node/4314791002"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4408217816",
+        "amenity": "drinking_water",
+        "check_date": "2024-02-11",
+        "dog": "yes",
+        "fountain": "bubbler",
+        "indoor": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1371357,
+          38.7310638
+        ]
+      },
+      "id": "node/4408217816"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4416614594",
+        "amenity": "drinking_water",
+        "check_date": "2024-03-24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1664347,
+          38.7266825
+        ]
+      },
+      "id": "node/4416614594"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4416614595",
+        "amenity": "drinking_water",
+        "check_date": "2024-03-24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1663256,
+          38.726595
+        ]
+      },
+      "id": "node/4416614595"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4416615093",
+        "amenity": "drinking_water",
+        "check_date": "2024-03-24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1665308,
+          38.726751
+        ]
+      },
+      "id": "node/4416615093"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4416665896",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1553491,
+          38.7209299
+        ]
+      },
+      "id": "node/4416665896"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4423873154",
+        "amenity": "drinking_water",
+        "check_date": "2022-11-09",
+        "fountain": "bubbler"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1348354,
+          38.7209737
+        ]
+      },
+      "id": "node/4423873154"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4493027289",
+        "amenity": "drinking_water",
+        "bottle": "no",
+        "check_date": "2024-09-08",
+        "dog": "no",
+        "fountain": "bubbler"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1504591,
+          38.7266199
+        ]
+      },
+      "id": "node/4493027289"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4706636060",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1555933,
+          38.7138884
+        ]
+      },
+      "id": "node/4706636060"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4772760700",
+        "amenity": "drinking_water",
+        "bottle": "yes",
+        "check_date": "2024-02-11",
+        "dog": "yes",
+        "fountain": "bubbler",
+        "indoor": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1374393,
+          38.7309879
+        ]
+      },
+      "id": "node/4772760700"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4779388745",
+        "amenity": "drinking_water",
+        "bottle": "no",
+        "dog": "no",
+        "fountain": "bubbler"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1506655,
+          38.7389515
+        ]
+      },
+      "id": "node/4779388745"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4839837048",
+        "amenity": "drinking_water",
+        "dog": "yes",
+        "fountain": "bubbler",
+        "indoor": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1405819,
+          38.732584
+        ]
+      },
+      "id": "node/4839837048"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4845963403",
+        "access": "yes",
+        "amenity": "drinking_water",
+        "bottle": "yes",
+        "check_date": "2024-10-27",
+        "fee": "no",
+        "fountain": "drinking"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1725102,
+          38.7338532
+        ]
+      },
+      "id": "node/4845963403"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4899375551",
+        "amenity": "drinking_water",
+        "man_made": "water_tap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1755889,
+          38.7361474
+        ]
+      },
+      "id": "node/4899375551"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4964232122",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1338741,
+          38.7097702
+        ]
+      },
+      "id": "node/4964232122"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4985442939",
+        "amenity": "drinking_water",
+        "check_date": "2024-10-27",
+        "man_made": "water_tap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1704175,
+          38.7329561
+        ]
+      },
+      "id": "node/4985442939"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4985442940",
+        "amenity": "drinking_water",
+        "man_made": "water_tap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.17141,
+          38.7306741
+        ]
+      },
+      "id": "node/4985442940"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4992528413",
+        "amenity": "drinking_water",
+        "bottle": "no",
+        "dog": "no",
+        "fountain": "bubbler",
+        "indoor": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1394748,
+          38.7062268
+        ]
+      },
+      "id": "node/4992528413"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4992547334",
+        "amenity": "drinking_water",
+        "bottle": "no",
+        "dog": "no",
+        "fountain": "bubbler",
+        "indoor": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1402762,
+          38.7061154
+        ]
+      },
+      "id": "node/4992547334"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5045270426",
+        "amenity": "drinking_water",
+        "bottle": "no",
+        "dog": "no",
+        "fountain": "bubbler"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1516824,
+          38.7149958
+        ]
+      },
+      "id": "node/5045270426"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5184249003",
+        "amenity": "drinking_water",
+        "drinking_water": "yes",
+        "man_made": "water_tap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1759831,
+          38.730772
+        ]
+      },
+      "id": "node/5184249003"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5631183823",
+        "amenity": "drinking_water",
+        "fountain": "drinking"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1467219,
+          38.7089083
+        ]
+      },
+      "id": "node/5631183823"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5631188923",
+        "amenity": "drinking_water",
+        "bottle": "no",
+        "fountain": "bubbler"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1468697,
+          38.7070727
+        ]
+      },
+      "id": "node/5631188923"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5959626843",
+        "amenity": "drinking_water",
+        "fountain": "bubbler"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1435858,
+          38.7053697
+        ]
+      },
+      "id": "node/5959626843"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6778052365",
+        "amenity": "drinking_water",
+        "dog": "yes",
+        "fountain": "bubbler",
+        "indoor": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1399733,
+          38.7226753
+        ]
+      },
+      "id": "node/6778052365"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6823163685",
+        "amenity": "drinking_water",
+        "bottle": "no",
+        "man_made": "water_tap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1333364,
+          38.7088982
+        ]
+      },
+      "id": "node/6823163685"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7235926359",
+        "amenity": "drinking_water",
+        "fountain": "bubbler"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1563848,
+          38.7218996
+        ]
+      },
+      "id": "node/7235926359"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9095957381",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1325664,
+          38.7086276
+        ]
+      },
+      "id": "node/9095957381"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9170285917",
+        "amenity": "drinking_water",
+        "bottle": "yes",
+        "dog": "yes",
+        "fountain": "bubbler",
+        "indoor": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1358003,
+          38.7154827
+        ]
+      },
+      "id": "node/9170285917"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9405506877",
+        "amenity": "drinking_water",
+        "bottle": "yes",
+        "dog": "designated",
+        "fountain": "bubbler"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1311587,
+          38.7119562
+        ]
+      },
+      "id": "node/9405506877"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9405526857",
+        "amenity": "drinking_water",
+        "bottle": "no",
+        "dog": "no",
+        "fountain": "bubbler"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1576486,
+          38.7144038
+        ]
+      },
+      "id": "node/9405526857"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9421475248",
+        "amenity": "drinking_water",
+        "fountain": "bubbler"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1649481,
+          38.7177359
+        ]
+      },
+      "id": "node/9421475248"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9421475249",
+        "amenity": "drinking_water",
+        "fountain": "bubbler"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1653133,
+          38.7181971
+        ]
+      },
+      "id": "node/9421475249"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9816614517",
+        "amenity": "drinking_water",
+        "bottle": "yes",
+        "check_date": "2022-06-14",
+        "dog": "yes",
+        "fountain": "bubbler"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1332453,
+          38.7071658
+        ]
+      },
+      "id": "node/9816614517"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9832490405",
+        "amenity": "drinking_water",
+        "bottle": "yes",
+        "dog": "yes",
+        "fountain": "bubbler"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1369294,
+          38.708508
+        ]
+      },
+      "id": "node/9832490405"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9964866548",
+        "amenity": "drinking_water",
+        "bottle": "yes",
+        "dog": "yes",
+        "fountain": "bubbler",
+        "indoor": "no",
+        "operator": "EPAL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1447781,
+          38.7351928
+        ]
+      },
+      "id": "node/9964866548"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10812602939",
+        "access": "yes",
+        "amenity": "drinking_water",
+        "bottle": "yes",
+        "dog": "yes",
+        "fee": "no",
+        "fountain": "bubbler"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1429196,
+          38.7052599
+        ]
+      },
+      "id": "node/10812602939"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10830719425",
+        "amenity": "drinking_water",
+        "bottle": "yes",
+        "dog": "yes",
+        "fountain": "bubbler"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1449774,
+          38.7053426
+        ]
+      },
+      "id": "node/10830719425"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10844065047",
+        "amenity": "drinking_water",
+        "bottle": "yes",
+        "dog": "no",
+        "fountain": "bubbler"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1332681,
+          38.7354753
+        ]
+      },
+      "id": "node/10844065047"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10844065051",
+        "amenity": "drinking_water",
+        "dog": "yes",
+        "fountain": "bubbler",
+        "indoor": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1335012,
+          38.7368975
+        ]
+      },
+      "id": "node/10844065051"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10844065052",
+        "amenity": "drinking_water",
+        "fountain": "bubbler",
+        "level": "0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.132267,
+          38.7369955
+        ]
+      },
+      "id": "node/10844065052"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10847781320",
+        "amenity": "drinking_water",
+        "bottle": "yes",
+        "dog": "yes",
+        "fountain": "bubbler",
+        "indoor": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1454353,
+          38.7340623
+        ]
+      },
+      "id": "node/10847781320"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10847784262",
+        "amenity": "drinking_water",
+        "bottle": "no",
+        "dog": "no",
+        "fountain": "bubbler",
+        "indoor": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1421623,
+          38.7231962
+        ]
+      },
+      "id": "node/10847784262"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10971199700",
+        "access": "yes",
+        "amenity": "drinking_water",
+        "bottle": "yes",
+        "dog": "no",
+        "fountain": "bubbler",
+        "level": "0",
+        "operator": "EPAL - Empresa Portuguesa de Águas Livres",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1520611,
+          38.7350535
+        ]
+      },
+      "id": "node/10971199700"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11047770484",
+        "access": "no",
+        "amenity": "drinking_water",
+        "fountain": "bubbler"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1445263,
+          38.7153331
+        ]
+      },
+      "id": "node/11047770484"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11047789238",
+        "amenity": "drinking_water",
+        "bottle": "no",
+        "dog": "yes",
+        "fountain": "bubbler"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.141259,
+          38.706254
+        ]
+      },
+      "id": "node/11047789238"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11047795622",
+        "access": "yes",
+        "amenity": "drinking_water",
+        "fee": "no",
+        "fountain": "drinking",
+        "start_date": "2023",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1355922,
+          38.7119071
+        ]
+      },
+      "id": "node/11047795622"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11047817807",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.149975,
+          38.7184905
+        ]
+      },
+      "id": "node/11047817807"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11050003132",
+        "amenity": "drinking_water",
+        "bottle": "yes",
+        "dog": "yes",
+        "fountain": "bubbler",
+        "indoor": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1452051,
+          38.7205818
+        ]
+      },
+      "id": "node/11050003132"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11050003135",
+        "amenity": "drinking_water",
+        "bottle": "yes",
+        "dog": "yes",
+        "fountain": "bubbler",
+        "indoor": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1421926,
+          38.7157715
+        ]
+      },
+      "id": "node/11050003135"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11050003139",
+        "amenity": "drinking_water",
+        "bottle": "yes",
+        "dog": "yes",
+        "fountain": "bubbler",
+        "indoor": "no",
+        "operator": "EPAL - Empresa Portuguesa de Águas Livres"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1467157,
+          38.7208375
+        ]
+      },
+      "id": "node/11050003139"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11061883623",
+        "amenity": "drinking_water",
+        "bottle": "yes",
+        "dog": "yes",
+        "fountain": "bubbler"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1654599,
+          38.7179331
+        ]
+      },
+      "id": "node/11061883623"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11085679583",
+        "amenity": "drinking_water",
+        "bottle": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1622065,
+          38.7396305
+        ]
+      },
+      "id": "node/11085679583"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11092430487",
+        "amenity": "drinking_water",
+        "bottle": "yes",
+        "dog": "yes",
+        "fountain": "bubbler",
+        "indoor": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1345403,
+          38.7335689
+        ]
+      },
+      "id": "node/11092430487"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11092430490",
+        "amenity": "drinking_water",
+        "bottle": "yes",
+        "fountain": "bubbler",
+        "indoor": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1349951,
+          38.7266024
+        ]
+      },
+      "id": "node/11092430490"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11107973633",
+        "amenity": "drinking_water",
+        "bottle": "yes",
+        "dog": "yes",
+        "fountain": "bubbler",
+        "indoor": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1467746,
+          38.7066903
+        ]
+      },
+      "id": "node/11107973633"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11108012327",
+        "amenity": "drinking_water",
+        "bottle": "yes",
+        "dog": "yes",
+        "fountain": "bubbler",
+        "man_made": "water_tap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1446745,
+          38.7078037
+        ]
+      },
+      "id": "node/11108012327"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11135794181",
+        "amenity": "drinking_water",
+        "drinking_water": "yes",
+        "fountain": "bubbler",
+        "man_made": "water_tap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1480972,
+          38.7254124
+        ]
+      },
+      "id": "node/11135794181"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11162865114",
+        "amenity": "drinking_water",
+        "bottle": "yes",
+        "dog": "yes",
+        "fountain": "bubbler"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1623498,
+          38.7318168
+        ]
+      },
+      "id": "node/11162865114"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11165493996",
+        "amenity": "drinking_water",
+        "bottle": "yes",
+        "dog": "no",
+        "fountain": "bubbler",
+        "operator": "EPAL - Empresa Portuguesa de Águas Livres"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1540158,
+          38.7341465
+        ]
+      },
+      "id": "node/11165493996"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11196691357",
+        "amenity": "drinking_water",
+        "bottle": "yes",
+        "dog": "yes",
+        "fountain": "bubbler",
+        "operator": "EPAL - Empresa Portuguesa de Águas Livres"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1386766,
+          38.7133384
+        ]
+      },
+      "id": "node/11196691357"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11261272479",
+        "amenity": "drinking_water",
+        "bottle": "yes",
+        "dog": "yes",
+        "fountain": "bubbler",
+        "indoor": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1456206,
+          38.7156597
+        ]
+      },
+      "id": "node/11261272479"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11261272480",
+        "amenity": "drinking_water",
+        "bottle": "yes",
+        "dog": "yes",
+        "fountain": "bubbler",
+        "indoor": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1545712,
+          38.7199564
+        ]
+      },
+      "id": "node/11261272480"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11261272489",
+        "amenity": "drinking_water",
+        "bottle": "yes",
+        "dog": "no",
+        "fountain": "bubbler",
+        "indoor": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.152495,
+          38.718653
+        ]
+      },
+      "id": "node/11261272489"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11362235083",
+        "amenity": "drinking_water",
+        "bottle": "yes",
+        "dog": "yes",
+        "fee": "no",
+        "fountain": "bubbler",
+        "operator": "EPAL - Empresa Portuguesa de Águas Livres"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.168724,
+          38.7396509
+        ]
+      },
+      "id": "node/11362235083"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11498462439",
+        "amenity": "drinking_water",
+        "bottle": "yes",
+        "dog": "no",
+        "fountain": "bubbler",
+        "indoor": "no",
+        "operator": "EPAL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1480599,
+          38.7351735
+        ]
+      },
+      "id": "node/11498462439"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11775727880",
+        "amenity": "drinking_water",
+        "bottle": "yes",
+        "fountain": "bubbler",
+        "indoor": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1368249,
+          38.7371035
+        ]
+      },
+      "id": "node/11775727880"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11817096734",
+        "amenity": "drinking_water",
+        "bottle": "yes",
+        "dog": "no",
+        "fountain": "bubbler",
+        "indoor": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1533963,
+          38.7079671
+        ]
+      },
+      "id": "node/11817096734"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11817096735",
+        "amenity": "drinking_water",
+        "bottle": "yes",
+        "fountain": "bubbler",
+        "indoor": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1430855,
+          38.7130611
+        ]
+      },
+      "id": "node/11817096735"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11817096739",
+        "amenity": "drinking_water",
+        "bottle": "yes",
+        "dog": "yes",
+        "fountain": "bubbler",
+        "indoor": "no",
+        "operator": "EPAL - Empresa Portuguesa de Águas Livres"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1454597,
+          38.7177588
+        ]
+      },
+      "id": "node/11817096739"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11817127072",
+        "amenity": "drinking_water",
+        "bottle": "yes",
+        "dog": "yes",
+        "fountain": "bubbler",
+        "indoor": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1558993,
+          38.7065571
+        ]
+      },
+      "id": "node/11817127072"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11835353503",
+        "amenity": "drinking_water",
+        "bottle": "yes",
+        "dog": "yes",
+        "fountain": "bubbler",
+        "indoor": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1424026,
+          38.7380209
+        ]
+      },
+      "id": "node/11835353503"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11867296422",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.145688,
+          38.7179115
+        ]
+      },
+      "id": "node/11867296422"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11918427669",
+        "amenity": "drinking_water",
+        "bottle": "yes",
+        "dog": "no",
+        "fountain": "bubbler",
+        "indoor": "no",
+        "operator": "EPAL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1415176,
+          38.7353366
+        ]
+      },
+      "id": "node/11918427669"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11918427702",
+        "amenity": "drinking_water",
+        "bottle": "yes",
+        "dog": "yes",
+        "fountain": "bubbler",
+        "indoor": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1394919,
+          38.7225228
+        ]
+      },
+      "id": "node/11918427702"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11931618031",
+        "amenity": "drinking_water",
+        "fountain": "bubbler"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1677014,
+          38.7108249
+        ]
+      },
+      "id": "node/11931618031"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11945226269",
+        "amenity": "drinking_water",
+        "bottle": "yes",
+        "dog": "no",
+        "fountain": "bubbler"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1403441,
+          38.7148015
+        ]
+      },
+      "id": "node/11945226269"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11966751569",
+        "amenity": "drinking_water",
+        "bottle": "yes",
+        "dog": "yes",
+        "fountain": "bubbler"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1342451,
+          38.7376242
+        ]
+      },
+      "id": "node/11966751569"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11975518311",
+        "amenity": "drinking_water",
+        "bottle": "yes",
+        "dog": "yes",
+        "fountain": "bubbler"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.151795,
+          38.7148591
+        ]
+      },
+      "id": "node/11975518311"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12095703401",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1333301,
+          38.7096033
+        ]
+      },
+      "id": "node/12095703401"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12095709601",
+        "amenity": "drinking_water",
+        "bottle": "yes",
+        "dog": "no",
+        "fountain": "bubbler"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1497104,
+          38.710961
+        ]
+      },
+      "id": "node/12095709601"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12134685001",
+        "amenity": "drinking_water",
+        "fountain": "bottle_refill"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.130647,
+          38.7123098
+        ]
+      },
+      "id": "node/12134685001"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12154382471",
+        "amenity": "drinking_water",
+        "bottle": "yes",
+        "dog": "no",
+        "fountain": "bubbler",
+        "operator": "EPAL - Empresa Portuguesa de Águas Livres"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1620773,
+          38.7390728
+        ]
+      },
+      "id": "node/12154382471"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12155863340",
+        "amenity": "drinking_water",
+        "bottle": "yes",
+        "dog": "yes",
+        "fountain": "bubbler",
+        "operator": "EPAL - Empresa Portuguesa de Águas Livres"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1469647,
+          38.7324739
+        ]
+      },
+      "id": "node/12155863340"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12163520732",
+        "amenity": "drinking_water",
+        "bottle": "no",
+        "dog": "no",
+        "fountain": "bubbler"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1435518,
+          38.7378047
+        ]
+      },
+      "id": "node/12163520732"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12163520733",
+        "amenity": "drinking_water",
+        "bottle": "yes",
+        "dog": "yes",
+        "fountain": "bubbler",
+        "operator": "EPAL - Empresa Portuguesa de Águas Livres"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1489707,
+          38.7255384
+        ]
+      },
+      "id": "node/12163520733"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12163520734",
+        "amenity": "drinking_water",
+        "bottle": "no",
+        "dog": "yes",
+        "fountain": "bubbler"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1418027,
+          38.7230732
+        ]
+      },
+      "id": "node/12163520734"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12163520739",
+        "amenity": "drinking_water",
+        "bottle": "no",
+        "dog": "no",
+        "fountain": "bubbler"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1396406,
+          38.722967
+        ]
+      },
+      "id": "node/12163520739"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12163520740",
+        "amenity": "drinking_water",
+        "bottle": "yes",
+        "dog": "no",
+        "fountain": "bubbler",
+        "operator": "Empresa Portuguesa de Águas Livres",
+        "operator:short": "EPAL",
+        "operator:wikidata": "Q10272522"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1402891,
+          38.7219364
+        ]
+      },
+      "id": "node/12163520740"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12163520741",
+        "amenity": "drinking_water",
+        "bottle": "no",
+        "dog": "yes",
+        "fountain": "bubbler"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1396339,
+          38.7216222
+        ]
+      },
+      "id": "node/12163520741"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12163520742",
+        "amenity": "drinking_water",
+        "bottle": "yes",
+        "dog": "no",
+        "fountain": "bubbler",
+        "operator": "EPAL - Empresa Portuguesa de Águas Livres"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1488731,
+          38.7231598
+        ]
+      },
+      "id": "node/12163520742"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12163520743",
+        "amenity": "drinking_water",
+        "bottle": "no",
+        "dog": "no",
+        "fountain": "bubbler"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1551648,
+          38.7286356
+        ]
+      },
+      "id": "node/12163520743"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12163520744",
+        "amenity": "drinking_water",
+        "bottle": "yes",
+        "dog": "no",
+        "fountain": "bubbler",
+        "operator": "EPAL - Empresa Portuguesa de Águas Livres"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1576396,
+          38.7299489
+        ]
+      },
+      "id": "node/12163520744"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12163520745",
+        "amenity": "drinking_water",
+        "bottle": "no",
+        "dog": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1549391,
+          38.7313839
+        ]
+      },
+      "id": "node/12163520745"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12163520746",
+        "amenity": "drinking_water",
+        "bottle": "no",
+        "dog": "yes",
+        "fountain": "bubbler"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1540246,
+          38.7310928
+        ]
+      },
+      "id": "node/12163520746"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12163520747",
+        "amenity": "drinking_water",
+        "bottle": "yes",
+        "dog": "no",
+        "fountain": "bubbler",
+        "operator": "EPAL - Empresa Portuguesa de Águas Livres"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1522537,
+          38.7380055
+        ]
+      },
+      "id": "node/12163520747"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12184870318",
+        "amenity": "drinking_water",
+        "bicycle": "no",
+        "bottle": "yes",
+        "fountain": "bubbler"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1328798,
+          38.7261608
+        ]
+      },
+      "id": "node/12184870318"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12192718305",
+        "amenity": "drinking_water",
+        "bottle": "yes",
+        "dog": "yes",
+        "fountain": "bubbler"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1611405,
+          38.737966
+        ]
+      },
+      "id": "node/12192718305"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12192718306",
+        "amenity": "drinking_water",
+        "bottle": "no",
+        "dog": "no",
+        "fountain": "bubbler"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1649776,
+          38.7369093
+        ]
+      },
+      "id": "node/12192718306"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12192718307",
+        "amenity": "drinking_water",
+        "bottle": "no",
+        "dog": "no",
+        "fountain": "bubbler"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1672174,
+          38.7366615
+        ]
+      },
+      "id": "node/12192718307"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12192718308",
+        "amenity": "drinking_water",
+        "bottle": "yes",
+        "dog": "no",
+        "fountain": "bubbler"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1302395,
+          38.7167907
+        ]
+      },
+      "id": "node/12192718308"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12192718312",
+        "amenity": "drinking_water",
+        "bottle": "no",
+        "dog": "yes",
+        "fountain": "bubbler"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1312907,
+          38.7369478
+        ]
+      },
+      "id": "node/12192718312"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12193112257",
+        "amenity": "drinking_water",
+        "bottle": "yes",
+        "dog": "no",
+        "fountain": "bubbler"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1609875,
+          38.7244304
+        ]
+      },
+      "id": "node/12193112257"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12229782058",
+        "amenity": "drinking_water",
+        "bottle": "yes",
+        "dog": "yes",
+        "fountain": "bubbler"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1524594,
+          38.7061023
+        ]
+      },
+      "id": "node/12229782058"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12229782059",
+        "amenity": "drinking_water",
+        "bottle": "yes",
+        "dog": "yes",
+        "fountain": "bubbler"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1476484,
+          38.7097382
+        ]
+      },
+      "id": "node/12229782059"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12229782060",
+        "amenity": "drinking_water",
+        "bottle": "yes",
+        "dog": "no",
+        "fountain": "bubbler"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1546234,
+          38.7107161
+        ]
+      },
+      "id": "node/12229782060"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12229782061",
+        "amenity": "drinking_water",
+        "bottle": "no",
+        "dog": "no",
+        "fountain": "bubbler"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1605193,
+          38.7152828
+        ]
+      },
+      "id": "node/12229782061"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12229782062",
+        "amenity": "drinking_water",
+        "bottle": "no",
+        "dog": "no",
+        "fountain": "bubbler"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1603161,
+          38.7147039
+        ]
+      },
+      "id": "node/12229782062"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12229782063",
+        "amenity": "drinking_water",
+        "bottle": "no",
+        "dog": "no",
+        "fountain": "bubbler"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1589934,
+          38.7152001
+        ]
+      },
+      "id": "node/12229782063"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12229782064",
+        "amenity": "drinking_water",
+        "bottle": "no",
+        "dog": "yes",
+        "fountain": "bubbler"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1578837,
+          38.7149077
+        ]
+      },
+      "id": "node/12229782064"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12229782065",
+        "amenity": "drinking_water",
+        "bottle": "no",
+        "dog": "no",
+        "fountain": "bubbler"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1590652,
+          38.7145911
+        ]
+      },
+      "id": "node/12229782065"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12229782066",
+        "amenity": "drinking_water",
+        "bottle": "no",
+        "dog": "yes",
+        "fountain": "bubbler"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1604023,
+          38.713918
+        ]
+      },
+      "id": "node/12229782066"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12229782067",
+        "amenity": "drinking_water",
+        "bottle": "yes",
+        "dog": "yes",
+        "fountain": "bubbler"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1641808,
+          38.715552
+        ]
+      },
+      "id": "node/12229782067"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12229782068",
+        "amenity": "drinking_water",
+        "bottle": "yes",
+        "dog": "yes",
+        "fountain": "bubbler"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.161799,
+          38.7211519
+        ]
+      },
+      "id": "node/12229782068"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12229782069",
+        "amenity": "drinking_water",
+        "bottle": "no",
+        "dog": "no",
+        "fountain": "bubbler"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1694333,
+          38.7249055
+        ]
+      },
+      "id": "node/12229782069"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12229782070",
+        "amenity": "drinking_water",
+        "bottle": "no",
+        "dog": "no",
+        "fountain": "bubbler"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1703834,
+          38.7250023
+        ]
+      },
+      "id": "node/12229782070"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12229782071",
+        "amenity": "drinking_water",
+        "bottle": "no",
+        "dog": "no",
+        "fountain": "bubbler"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1709507,
+          38.7254386
+        ]
+      },
+      "id": "node/12229782071"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12229782072",
+        "amenity": "drinking_water",
+        "bottle": "no",
+        "dog": "yes",
+        "fountain": "bubbler"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1712263,
+          38.7266219
+        ]
+      },
+      "id": "node/12229782072"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12229782075",
+        "amenity": "drinking_water",
+        "bottle": "yes",
+        "dog": "yes",
+        "fountain": "bubbler"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1684194,
+          38.7268296
+        ]
+      },
+      "id": "node/12229782075"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12229782078",
+        "amenity": "drinking_water",
+        "bottle": "yes",
+        "dog": "yes",
+        "fountain": "bubbler"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1662572,
+          38.7265576
+        ]
+      },
+      "id": "node/12229782078"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12229782079",
+        "amenity": "drinking_water",
+        "bottle": "yes",
+        "dog": "no",
+        "fountain": "bubbler"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1618624,
+          38.7275817
+        ]
+      },
+      "id": "node/12229782079"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12229782087",
+        "amenity": "drinking_water",
+        "bottle": "yes",
+        "dog": "yes",
+        "fountain": "bubbler"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1582257,
+          38.733152
+        ]
+      },
+      "id": "node/12229782087"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12271105025",
+        "amenity": "drinking_water",
+        "bottle": "no",
+        "dog": "no",
+        "fountain": "bubbler"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1779332,
+          38.7313764
+        ]
+      },
+      "id": "node/12271105025"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12271105039",
+        "amenity": "drinking_water",
+        "bottle": "no",
+        "dog": "no",
+        "fountain": "bubbler"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1777401,
+          38.7342868
+        ]
+      },
+      "id": "node/12271105039"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12271105040",
+        "amenity": "drinking_water",
+        "bottle": "no",
+        "dog": "no",
+        "fountain": "bubbler"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1779305,
+          38.7339186
+        ]
+      },
+      "id": "node/12271105040"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12271105041",
+        "amenity": "drinking_water",
+        "bottle": "no",
+        "dog": "no",
+        "fountain": "bubbler"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1761623,
+          38.733702
+        ]
+      },
+      "id": "node/12271105041"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12271105042",
+        "amenity": "drinking_water",
+        "bottle": "no",
+        "dog": "no",
+        "fountain": "bubbler"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1771859,
+          38.7336735
+        ]
+      },
+      "id": "node/12271105042"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12271105045",
+        "amenity": "drinking_water",
+        "bottle": "no",
+        "dog": "no",
+        "fountain": "bubbler"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1774008,
+          38.7334248
+        ]
+      },
+      "id": "node/12271105045"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12271105046",
+        "amenity": "drinking_water",
+        "bottle": "no",
+        "dog": "no",
+        "fountain": "bubbler"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1781297,
+          38.7333325
+        ]
+      },
+      "id": "node/12271105046"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12271105047",
+        "amenity": "drinking_water",
+        "bottle": "no",
+        "dog": "no",
+        "fountain": "bubbler"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1778417,
+          38.733208
+        ]
+      },
+      "id": "node/12271105047"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12271105048",
+        "amenity": "drinking_water",
+        "bottle": "no",
+        "dog": "no",
+        "fountain": "bubbler"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1788425,
+          38.7345834
+        ]
+      },
+      "id": "node/12271105048"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12833564968",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1393541,
+          38.7097823
+        ]
+      },
+      "id": "node/12833564968"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12860106372",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1598607,
+          38.7218218
+        ]
+      },
+      "id": "node/12860106372"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12917404222",
+        "amenity": "drinking_water",
+        "fountain": "bubbler"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1493761,
+          38.7184543
+        ]
+      },
+      "id": "node/12917404222"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12997330256",
+        "amenity": "drinking_water",
+        "fountain": "bubbler"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.140887,
+          38.726108
+        ]
+      },
+      "id": "node/12997330256"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13015691081",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1707687,
+          38.705107
+        ]
+      },
+      "id": "node/13015691081"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13103460328",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1460528,
+          38.709956
+        ]
+      },
+      "id": "node/13103460328"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13110646945",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1421306,
+          38.7166535
+        ]
+      },
+      "id": "node/13110646945"
+    }
+  ]
+}
